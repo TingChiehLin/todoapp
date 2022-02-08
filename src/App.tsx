@@ -1,4 +1,3 @@
-import { METHODS } from 'http';
 import React, { FC, useState } from 'react';
 
 import TodoForm from './components/TodoForm';
